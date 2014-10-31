@@ -15,8 +15,15 @@
             <TextBlock FontFamily="Arial"
                        FontSize="100"
                        Foreground="SteelBlue"
-                       >Hello, world!
+                       x:Uid="HelloText">
             </TextBlock>
+            <TextBox
+                
+                AutomationProperties.Name="Input text" 
+                Width="100"
+                x:Name="nameBox" Margin="12">
+                
+            </TextBox>
         </StackPanel>
     </Grid>
 </Page>

@@ -116,6 +116,8 @@
       <SubType>Designer</SubType>
     </AppxManifest>
     <None Include="App1.Windows_TemporaryKey.pfx" />
+    <PRIResource Include="ru-ru\Resources.resw" />
+    <PRIResource Include="en\Resources.resw" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Assets\Logo.scale-100.png" />
