@@ -21,7 +21,7 @@
                 
                 AutomationProperties.Name="Input text" 
                 Width="100"
-                x:Name="nameBox" Margin="12">
+                x:Name="nameBox" Margin="12" Text="123">
                 
             </TextBox>
         </StackPanel>
